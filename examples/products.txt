@@ -1,0 +1,5 @@
+# One per line: a product name as Capterra lists it, or a capterra.com product URL.
+Asana
+monday.com
+ClickUp
+https://www.capterra.com/p/135003/Slack/
